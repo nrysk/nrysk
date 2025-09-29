@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">My 3D Contributions</h2>
+<h3 align="center">Minecraft-style GitHub Contribution Graph</h3>
+<img width="100%" src="https://github.com/nrysk/nrysk/blob/gh-miner/contributions.png?raw=true">
 
-<h4>github Theme</h4>
+_generated with [nrysk/gh-miner](https://github.com/nrysk/gh-miner)_
+
+<h3 align="center">3D Grass Contribution Graph</h3>
 <img src="https://github.com/nrysk/nrysk/blob/output/github.png?raw=true">
-<h4>github-nograss Theme</h4>
-<img src="https://github.com/nrysk/nrysk/blob/output/github-nograss.png?raw=true">
-<h4>planet Theme</h4>
-<img src="https://github.com/nrysk/nrysk/blob/output/planet.png?raw=true">
-<h4>planet-nograss Theme</h4>
-<img src="https://github.com/nrysk/nrysk/blob/output/planet-nograss.png?raw=true">
 
 _generated with [nrysk/cgrass](https://github.com/nrysk/cgrass)_
