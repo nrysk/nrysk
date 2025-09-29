@@ -1,0 +1,22 @@
+name: Generate Picture and Push to Repository
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "30 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate and Push
+        uses: nrysk/gh-miner@v0.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_login: nrysk
