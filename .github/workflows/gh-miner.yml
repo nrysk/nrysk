@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Generate and Push
-        uses: nrysk/gh-miner@v0.1.0
+        uses: nrysk/gh-miner@v0.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_login: nrysk
